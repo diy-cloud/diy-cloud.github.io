@@ -1,0 +1,33 @@
+@startuml roadmap
+
+queue VirtualGate
+
+cloud Lux
+
+cloud Compositor
+file Container
+
+database LogSilo
+database FileStore
+
+hexagon Mediator
+
+Actor client
+
+Lux -[hidden]up-> Compositor
+
+client -right-> VirtualGate
+VirtualGate -right-> Lux
+VirtualGate -right-> Compositor
+VirtualGate -right-> FileStore
+Lux -right-> LogSilo
+Compositor -right-> LogSilo
+Container -left-> Compositor
+
+Mediator -up-> VirtualGate
+Mediator -up-> Lux
+Mediator -up-> Compositor
+Mediator -up-> LogSilo
+Mediator -up-> FileStore
+
+@enduml

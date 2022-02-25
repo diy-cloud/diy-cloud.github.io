@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="293px" preserveAspectRatio="none" style="width:484px;height:293px;background:#FFFFFF;" version="1.1" viewBox="0 0 484 293" width="484px" zoomAndPan="magnify"><defs><filter height="300%" id="f1t4e6q6fqzaf8" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[6bcd7fcac12361df3ec9b903898b1e8d]
+entity VirtualGate--><path d="M106,32 L187,32 C192,32 192,46.6147 192,46.6147 C192,46.6147 192,61.2295 187,61.2295 L106,61.2295 C101,61.2295 101,46.6147 101,46.6147 C101,46.6147 101,32 106,32 " fill="#FEFECE" filter="url(#f1t4e6q6fqzaf8)" style="stroke:#A80036;stroke-width:1.5;"/><path d="M187,32 C182,32 182,46.6147 182,46.6147 C182,61.2295 187,61.2295 187,61.2295 " fill="none" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="71" x="106" y="53.1533">VirtualGate</text><!--MD5=[bd5eece472bcec4f1de91b87bbef5dd0]
+entity Lux--><path d="M198.0452,158.4594 C203.4942,148.2755 209.5283,146.0697 217.5971,155.9001 C222.4735,146.9107 230.4536,147.3583 234.6831,156.5094 C245.9,159.2882 247.3719,165.3103 240.2828,173.9624 C246.7804,180.5375 243.795,188.203 235.3922,190.3245 C232.1283,200.2266 223.3508,201.3527 216.6611,194.0554 C210.4033,203.4304 201.6872,201.5116 197.6408,191.8463 C186.7049,189.8356 182.8569,184.6287 189.6786,174.4776 C183.8422,164.4045 186.4278,159.416 198.0452,158.4594 " fill="#FEFECE" filter="url(#f1t4e6q6fqzaf8)" style="stroke:#000000;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="22" x="204.5" y="179.6533">Lux</text><!--MD5=[c450ac95829f6e85f9933f80e92055d7]
+entity Compositor--><path d="M256.5852,32.0342 C260.504,24.9679 266.4535,24.9688 270.8782,31.5026 C274.6563,24.8024 280.5706,23.1597 285.5508,30.2208 C290.3538,22.0408 295.5487,22.1385 300.8082,29.7806 C305.5824,23.9984 311.5808,23.1478 315.6519,30.571 C319.9172,24.6563 324.5621,24.0763 329.4038,29.8954 C333.0579,23.7799 339.6062,22.9475 342.8069,30.3451 C353.4803,33.7494 355.1727,41.6132 346.2609,48.7026 C352.6033,54.7619 350.3991,61.3726 342.5134,63.9305 C339.1797,70.6951 333.7873,71.8216 328.3336,66.3966 C324.7631,71.8214 318.7154,72.0235 315.6122,65.8826 C312.4671,74.0116 305.5709,74.7253 301.0744,67.1322 C296.7109,72.4656 290.3841,71.7799 287.206,65.6927 C281.1197,72.8134 276.1781,72.8987 271.1859,64.559 C267.6006,70.6026 261.8011,70.4009 257.989,64.8165 C249.1473,61.2983 250.1837,53.0393 256.9007,48.4843 C248.6688,43.6721 248.7246,37.1551 256.5852,32.0342 " fill="#FEFECE" filter="url(#f1t4e6q6fqzaf8)" style="stroke:#000000;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="72" x="263.5" y="53.1533">Compositor</text><!--MD5=[6a699a515a41fa5022d80998dc7e27dc]
+entity Container--><polygon fill="#FEFECE" filter="url(#f1t4e6q6fqzaf8)" points="385.5,27,385.5,66.2295,467.5,66.2295,467.5,37,457.5,27,385.5,27" style="stroke:#000000;stroke-width:1.5;"/><path d="M457.5,27 L457.5,37 L467.5,37 " fill="#FEFECE" style="stroke:#000000;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="62" x="395.5" y="53.1533">Container</text><!--MD5=[1a4baa5b0ecc85f90576675adc448830]
+entity LogSilo--><path d="M277,159 C277,149 310.5,149 310.5,149 C310.5,149 344,149 344,159 L344,187.2295 C344,197.2295 310.5,197.2295 310.5,197.2295 C310.5,197.2295 277,197.2295 277,187.2295 L277,159 " fill="#FEFECE" filter="url(#f1t4e6q6fqzaf8)" style="stroke:#000000;stroke-width:1.5;"/><path d="M277,159 C277,169 310.5,169 310.5,169 C310.5,169 344,169 344,159 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="47" x="287" y="189.1533">LogSilo</text><!--MD5=[ee04b0822ebe75f897f700c53ccb7b63]
+entity FileStore--><path d="M6,159 C6,149 44.5,149 44.5,149 C44.5,149 83,149 83,159 L83,187.2295 C83,197.2295 44.5,197.2295 44.5,197.2295 C44.5,197.2295 6,197.2295 6,187.2295 L6,159 " fill="#FEFECE" filter="url(#f1t4e6q6fqzaf8)" style="stroke:#000000;stroke-width:1.5;"/><path d="M6,159 C6,169 44.5,169 44.5,169 C44.5,169 83,169 83,159 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="57" x="16" y="189.1533">FileStore</text><!--MD5=[88060901833da2f31ec4d1b50cc29f96]
+entity Mediator--><polygon fill="#FEFECE" filter="url(#f1t4e6q6fqzaf8)" points="270.5,272,243,257.5,188,257.5,160.5,272,188,286.5,243,286.5,270.5,272" style="stroke:#000000;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55" x="188" y="278.6533">Mediator</text><!--MD5=[4a65e84059005d12693a083370a06717]
+entity client--><ellipse cx="49.5" cy="14" fill="#FEFECE" filter="url(#f1t4e6q6fqzaf8)" rx="8" ry="8" style="stroke:#A80036;stroke-width:1.5;"/><path d="M49.5,22 L49.5,49 M36.5,30 L62.5,30 M49.5,49 L36.5,64 M49.5,49 L62.5,64 " fill="none" filter="url(#f1t4e6q6fqzaf8)" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="33" x="33" y="85.6533">client</text><!--MD5=[f3bbe5002e0bd909fe804bd5aa0c3a39]
+reverse link Compositor to Lux--><!--MD5=[ca2d15021e2f100513d769e481472f06]
+link client to VirtualGate--><path d="M66.17,46.5 C75.97,46.5 85.77,46.5 95.56,46.5 " fill="none" id="client-to-VirtualGate" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="100.69,46.5,91.69,42.5,95.69,46.5,91.69,50.5,100.69,46.5" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[feeef57a15a6f7d9aa0521b56119fc2e]
+link VirtualGate to Lux--><path d="M154.15,61.3 C165.11,81.09 185.55,117.97 199.82,143.7 " fill="none" id="VirtualGate-to-Lux" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="202.4,148.37,201.5504,138.5579,199.9827,143.9932,194.5474,142.4255,202.4,148.37" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[563c897048de893ba5bebf90516f8ec1]
+link VirtualGate to Compositor--><path d="M192.22,46.5 C209.18,46.5 226.15,46.5 243.11,46.5 " fill="none" id="VirtualGate-to-Compositor" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="248.37,46.5,239.37,42.5,243.37,46.5,239.37,50.5,248.37,46.5" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[8e1500ffb4bb6b5b73e3f9e2eb008ca7]
+link VirtualGate to FileStore--><path d="M135.19,61.3 C118.75,81.37 87.9,119.03 66.78,144.8 " fill="none" id="VirtualGate-to-FileStore" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="63.48,148.83,72.2857,144.4186,66.6555,144.9679,66.1062,139.3377,63.48,148.83" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[4e09d5577076d69aeaea2b755d0cb9b7]
+link Lux to LogSilo--><path d="M241.85,173 C251.82,173 261.79,173 271.76,173 " fill="none" id="Lux-to-LogSilo" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="276.98,173,267.98,169,271.98,173,267.98,177,276.98,173" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[72fbd83cfd5a03b5ac059f9b5ade54c8]
+link Compositor to LogSilo--><path d="M301.59,71.21 C303.42,91.85 306.07,121.81 308,143.7 " fill="none" id="Compositor-to-LogSilo" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="308.45,148.8,311.6357,139.4806,308.0064,143.8197,303.6672,140.1904,308.45,148.8" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[7e1899118eec169a3b61936b1154ba77]
+reverse link Compositor to Container--><path d="M355.75,46.5 C365.59,46.5 375.44,46.5 385.29,46.5 " fill="none" id="Compositor-backto-Container" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="350.6,46.5,359.6,50.5,355.6,46.5,359.6,42.5,350.6,46.5" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[d40119735427d0846a41e016550f3987]
+reverse link VirtualGate to Mediator--><path d="M147.38,66.25 C149.24,95.22 154.86,152.24 171.5,197.5 C179.76,219.97 195.03,243.25 205.23,257.43 " fill="none" id="VirtualGate-backto-Mediator" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="147.08,61.17,143.6262,70.3934,147.3795,66.161,151.6118,69.9143,147.08,61.17" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[b3be2f0d6c6195eef0acbac3b783e301]
+reverse link Lux to Mediator--><path d="M215.5,203.41 C215.5,221.38 215.5,243.52 215.5,257.45 " fill="none" id="Lux-backto-Mediator" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="215.5,197.98,211.5,206.98,215.5,202.98,219.5,206.98,215.5,197.98" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[8e229bf3b2c3c4e9ffa62204f3b1f0b6]
+reverse link Compositor to Mediator--><path d="M326.18,75.29 C352.67,106.4 386.04,157.67 361.5,197.5 C338.28,235.19 289.14,254.24 254.3,263.37 " fill="none" id="Compositor-backto-Mediator" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="322.66,71.23,325.5357,80.6497,325.9363,75.007,331.5789,75.4076,322.66,71.23" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[d87e25cc4fef19f245e50780961312ea]
+reverse link LogSilo to Mediator--><path d="M283.99,201.07 C266.07,219.37 243.16,242.76 228.91,257.31 " fill="none" id="LogSilo-backto-Mediator" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="287.5,197.48,278.3438,201.1082,284.0004,201.0511,284.0575,206.7076,287.5,197.48" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[3a4cfd53e58967fbd29d2d8a44fcdb5a]
+reverse link FileStore to Mediator--><path d="M87.67,198.49 C120.61,217.17 164.76,242.22 191.61,257.45 " fill="none" id="FileStore-backto-Mediator" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="83.3,196.01,89.1437,203.9379,87.6456,198.483,93.1005,196.9849,83.3,196.01" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[c075b2910a63655c0d111b13edd83560]
+@startuml roadmap
+
+queue VirtualGate
+
+cloud Lux
+
+cloud Compositor
+file Container
+
+database LogSilo
+database FileStore
+
+hexagon Mediator
+
+Actor client
+
+Lux -[hidden]up-> Compositor
+
+client -right-> VirtualGate
+VirtualGate -right-> Lux
+VirtualGate -right-> Compositor
+VirtualGate -right-> FileStore
+Lux -right-> LogSilo
+Compositor -right-> LogSilo
+Container -left-> Compositor
+
+Mediator -up-> VirtualGate
+Mediator -up-> Lux
+Mediator -up-> Compositor
+Mediator -up-> LogSilo
+Mediator -up-> FileStore
+
+@enduml
+
+PlantUML version 1.2022.0(Wed Jan 12 01:16:42 KST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: MS949
+Language: ko
+Country: KR
+--></g></svg>
