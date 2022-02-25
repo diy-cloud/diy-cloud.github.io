@@ -75,7 +75,7 @@ func main() {
 		},
 		e.Paragraph{
 			Value: e.Text{
-				Value: "snowmerak: <a href=\"https://gitlab.com/snowmerak\">Gitlab</a>",
+				Value: "snowmerak: <a href=\"https://github.com/snowmerak\">Github</a>",
 			},
 		},
 	}
@@ -121,11 +121,11 @@ func main() {
 	}
 
 	projectDatas := [][]string{
-		{"Lux", "snowmerak", "simple webframework for golang", "<a href=\"https://gitlab.com/serve-it-yourself/lux\">Gitlab</a>"},
-		{"logstream", "snowmerak", "log library for golang", "<a href=\"https://gitlab.com/serve-it-yourself/logstream\">Gitlab</a>"},
-		{"log-silo", "snowmerak", "simple log store based parquet", "<a href=\"https://gitlab.com/serve-it-yourself/log-silo\">Gitlab</a>"},
-		{"compositor", "snowmerak", "reverse proxy server based docker", "<a href=\"https://gitlab.com/serve-it-yourself/compositor\">Gitlab</a>"},
-		{"virtual-gate", "snowmerak", "a load balancer and rate limitter", "<a href=\"https://gitlab.com/serve-it-yourself/virtual-gate\">Gitlab</a>"},
+		{"Lux", "snowmerak", "simple webframework for golang", "<a href=\"https://github.com/diy-cloud/lux\">Github</a>"},
+		{"logstream", "snowmerak", "log library for golang", "<a href=\"https://github.com/diy-cloud/logstream\">Github</a>"},
+		{"log-silo", "snowmerak", "simple log store based parquet", "<a href=\"https://github.com/diy-cloud/log-silo\">Github</a>"},
+		{"compositor", "snowmerak", "reverse proxy server based docker", "<a href=\"https://github.com/diy-cloud/compositor\">Github</a>"},
+		{"virtual-gate", "snowmerak", "a load balancer and rate limitter", "<a href=\"https://github.com/diy-cloud/virtual-gate\">Github</a>"},
 	}
 	projectsRows := []e.TableRow{}
 	for _, projectData := range projectDatas {
